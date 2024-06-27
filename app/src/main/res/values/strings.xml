@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseRealtimeDBSampleApp</string>
+    <string name="error_message_unknown">Unknown error</string>
+</resources>
